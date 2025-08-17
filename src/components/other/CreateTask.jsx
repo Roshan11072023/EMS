@@ -89,7 +89,7 @@ const CreateTask = () => {
                             onChange={(e) => {
                                 setAsignTo(e.target.value)
                             }}
-                            className='text-sm py-1 px-2 w-4/5 rounded outline-none bg-transparent border-[1px] border-gray-400 mb-4' type="text" placeholder='employee name' required />
+                            className='text-sm py-1 px-2 w-4/5 rounded outline-none bg-transparent border-[1px] border-gray-400 mb-4' type="text" placeholder='Arjun, Sneha, Ravi, Priya, Karan' required />
                     </div>
                     <div>
                         <h3 className='text-sm text-gray-300 mb-0.5'>Category</h3>

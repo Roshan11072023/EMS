@@ -1,5 +1,5 @@
 import React, { useContext, useEffect, useState } from 'react';
-import { BrowserRouter as Router, Routes, Route, Navigate, useNavigate } from 'react-router-dom';
+import { HashRouter as Router, Routes, Route, Navigate, useNavigate } from 'react-router-dom';
 import Login from './components/Auth/Login';
 import EmployeeDashboard from './components/Dashboard/EmployeeDashboard';
 import AdminDashboard from './components/Dashboard/AdminDashboard';
