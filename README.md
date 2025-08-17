@@ -1,9 +1,14 @@
-# Employee Management System (EMS)
+# Employee Management System (EMS)  
 
-A **React-based Employee Management System** to manage tasks efficiently. The app is deployed live on **GitHub Pages** and demonstrates dynamic task management with a responsive UI.
+[![React](https://img.shields.io/badge/React-17.0.2-blue?logo=react&logoColor=white)](https://reactjs.org/)  
+[![Vite](https://img.shields.io/badge/Vite-4.0.0-brightgreen?logo=vite&logoColor=white)](https://vitejs.dev/)  
+[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-4.1.11-teal?logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)  
+[![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-deployed-blueviolet)](https://Roshan11072023.github.io/EMS)  
+
+A **React-based Employee Management System** to manage tasks efficiently. The app is deployed live on **GitHub Pages** and demonstrates dynamic task management with a responsive UI.  
 
 ## Live Demo
-[https://Roshan11072023.github.io/EMS](https://Roshan11072023.github.io/EMS)
+[https://Roshan11072023.github.io/EMS](https://Roshan11072023.github.io/EMS)  
 
 ## Tech Stack
 - **Frontend:** React, Vite, TailwindCSS  
@@ -18,7 +23,7 @@ A **React-based Employee Management System** to manage tasks efficiently. The ap
 - Tasks persist in the browser using LocalStorage  
 
 ## Screenshots
-*coming soon
+*(Coming Soon)*  
 
 ## Author
 **Roshan Kumar Jha**  
