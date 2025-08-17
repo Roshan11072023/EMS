@@ -18,7 +18,7 @@ A **React-based Employee Management System** to manage tasks efficiently. The ap
 - Tasks persist in the browser using LocalStorage  
 
 ## Screenshots
-*(Add 1–2 screenshots of your app here for visual appeal)*
+*coming soon
 
 ## Author
 **Roshan Kumar Jha**  
